@@ -1,0 +1,415 @@
+UTC_timezone,ISO_3166_country,population
+Africa/Abidjan,CI,4395000
+Africa/Accra,GH,1594000
+Africa/Addis Ababa,ET,3385000
+Africa/Algiers,DZ,2713000
+Africa/Asmara,ER,804000
+Africa/Bamako,ML,3337000
+Africa/Bangui,CF,734350
+Africa/Banjul,GM,413397
+Africa/Bissau,GW,387909
+Africa/Blantyre,MW,1069000
+Africa/Brazzaville,CG,10000000
+Africa/Bujumbura,BI,497169
+Africa/Cairo,EG,9153000
+Africa/Casablanca,MA,3360000
+Africa/Ceuta,ES,84519
+Africa/Conakry,GN,1661000
+Africa/Dakar,SN,1056000
+Africa/Dar es Salaam,TZ,4365000
+Africa/Djibouti,DJ,942333
+Africa/Douala,CM,2447000
+Africa/Freetown,SL,802639
+Africa/Gaborone,BW,231592
+Africa/Harare,ZW,1485000
+Africa/Johannesburg,ZA,957441
+Africa/Kampala,UG,1507000
+Africa/Khartoum,SD,639598
+Africa/Kigali,RW,859332
+Africa/Kinshasa,CD,9464000
+Africa/Lagos,NG,21000000
+Africa/Libreville,GA,703904
+Africa/Lome,TG,839566
+Africa/Luanda,AO,2487000
+Africa/Lubumbashi,CD,1794000
+Africa/Lusaka,ZM,1747000
+Africa/Malabo,GQ,30418
+Africa/Maputo,MZ,1101170
+Africa/Maseru,LS,330760
+Africa/Mbabane,SZ,38290
+Africa/Mogadishu,SO,1400000
+Africa/Monrovia,LR,37126
+Africa/Nairobi,KE,3134000
+Africa/Ndjamena,TD,721081
+Africa/Niamey,NE,1027000
+Africa/Nouakchott,MR,968000
+Africa/Ouagadougou,BF,2200000
+Africa/Porto-Novo,BJ,264320
+Africa/Sao Tome,ST,199910
+Africa/Tripoli,LY,2526000
+Africa/Tunis,TN,1067000
+Africa/Windhoek,NA,325858
+America/Adak,US,329
+America/Anchorage,US,298192
+America/Anguilla,AI,14764
+America/Antigua,AG,80161
+America/Araguaina,BR,142925
+America/Argentina/Buenos Aires,AR,2890000
+America/Argentina/Catamarca,AR,396895
+America/Argentina/Cordoba,AR,326609
+America/Argentina/Jujuy,AR,718971
+America/Argentina/La Rioja,AR,315794
+America/Argentina/Mendoza,AR,115041
+America/Argentina/Rio Gallegos,AR,98000
+America/Argentina/Salta,AR,1333000
+America/Argentina/San Juan,AR,355074
+America/Argentina/San Luis,AR,47536
+America/Argentina/Tucuman,AR,1593000
+America/Argentina/Ushuaia,AR,60000
+America/Aruba,AW,104822
+America/Asuncion,PY,525252
+America/Atikokan,CA,2753
+America/Bahia,BR,15200000
+America/Bahia Banderas,MX,5057
+America/Barbados,BB,284996
+America/Belem,BR,143474
+America/Belize,BZ,366954
+America/Blanc-Sablon,CA,1118
+America/Boa Vista,BR,6233
+America/Bogota,CO,8081000
+America/Boise,US,223154
+America/Cambridge Bay,CA,1766
+America/Campo Grande,BR,774202
+America/Cancun,MX,628306
+America/Caracas,VE,2082000
+America/Cayenne,GF,2365
+America/Cayman,KY,60765
+America/Chicago,US,2705000
+America/Chihuahua,MX,809232
+America/Costa Rica,CR,4857000
+America/Creston,CA,5306
+America/Cuiaba,BR,607153
+America/Danmarkshavn,GL,8
+America/Dawson,CA,1375
+America/Dawson Creek,CA,12978
+America/Denver,US,693060
+America/Detroit,US,672795
+America/Dominica,DM,73543
+America/Edmonton,CA,928182
+America/Eirunepe,BR,30901
+America/El Salvador,SV,6345000
+America/Fort Nelson,CA,3902
+America/Fortaleza,BR,2610000
+America/Glace Bay,CA,19076
+America/Godthab,GL,17036
+America/Goose Bay,CA,8109
+America/Grand Turk,TC,3720
+America/Grenada,GD,107818
+America/Guadeloupe,GP,405739
+America/Guatemala,GT,16580000
+America/Guayaquil,EC,2291000
+America/Guyana,GY,773303
+America/Halifax,CA,414129
+America/Havana,CU,2125000
+America/Hermosillo,MX,812229
+America/Indiana/Indianapolis,US,864771
+America/Indiana/Knox,US,3597
+America/Indiana/Marengo,US,7445
+America/Indiana/Petersburg,US,2331
+America/Indiana/Tell City,US,7323
+America/Indiana/Vevay,US,1681
+America/Indiana/Vincennes,US,17924
+America/Indiana/Winamac,US,2361
+America/Inuvik,CA,3022
+America/Iqaluit,CA,6124
+America/Jamaica,JM,2847232
+America/Juneau,US,32468
+America/Kentucky/Louisville,US,615366
+America/Kentucky/Monticello,US,13429
+America/La Paz,BO,244219
+America/Lima,PE,8891000
+America/Los Angeles,US,3976000
+America/Maceio,BR,932078
+America/Managua,NI,1320000
+America/Manaus,BR,1793000
+America/Martinique,MQ,386486
+America/Matamoros,MX,449815
+America/Mazatlan,MX,658354
+America/Menominee,US,8279
+America/Merida,MX,777615
+America/Metlakatla,US,1375
+America/Mexico City,MX,8851000
+America/Miquelon,PM,6080
+America/Moncton,CA,72321
+America/Monterrey,MX,1136000
+America/Montevideo,UY,1380000
+America/Montserrat,MS,4900
+America/Nassau,BS,244400
+America/New York,US,8538000
+America/Nipigon,CA,1631
+America/Nome,US,3797
+America/Noronha,BR,2629
+America/North Dakota/Beulah,US,3376
+America/North Dakota/Center,US,563
+America/North Dakota/New Salem,US,922
+America/Ojinaga,MX,28040
+America/Panama,PA,4034000
+America/Pangnirtung,CA,1481
+America/Paramaribo,SR,240924
+America/Phoenix,US,1615000
+America/Port-au-Prince,HT,987310
+America/Port of Spain,TT,37074
+America/Porto Velho,BR,369259
+America/Puerto Rico,PR,3337000
+America/Punta Arenas,CL,124474
+America/Rainy River,CA,842
+America/Rankin Inlet,CA,2334
+America/Recife,BR,1555000
+America/Regina,CA,216528
+America/Resolute,CA,198
+America/Rio Branco,BR,319825
+America/Santarem,BR,61752
+America/Santiago,CL,5150000
+America/Santo Domingo,DO,965040
+America/Sao Paulo,BR,12110000
+America/Scoresbysund,GL,452
+America/Sitka,US,8830
+America/St Johns,CA,111796
+America/St Kitts,KN,54821
+America/St Lucia,LC,178015
+America/St Thomas,VI,41813
+America/St Vincent,VC,109643
+America/Swift Current,CA,16604
+America/Tegucigalpa,HN,1190000
+America/Thule,GL,656
+America/Thunder Bay,CA,110984
+America/Tijuana,MX,1301000
+America/Toronto,CA,2809000
+America/Tortola,VG,23908
+America/Vancouver,CA,647540
+America/Whitehorse,CA,25085
+America/Winnipeg,CA,709253
+America/Yakutat,US,613
+America/Yellowknife,CA,19569
+Antarctica/Casey,AQ,150
+Antarctica/Davis,AQ,120
+Antarctica/DumontDUrville,AQ,120
+Antarctica/Macquarie,AU,41491
+Antarctica/Mawson,AQ,120
+Antarctica/McMurdo,AQ,1258
+Antarctica/Palmer,AQ,46
+Antarctica/Rothera,AQ,120
+Antarctica/Syowa,AQ,120
+Antarctica/Troll,AQ,120
+Antarctica/Vostok,AQ,3452
+Asia/Aden,YE,1761000
+Asia/Almaty,KZ,1508000
+Asia/Amman,JO,4008000
+Asia/Anadyr,RU,13045
+Asia/Aqtau,KZ,181541
+Asia/Aqtobe,KZ,377752
+Asia/Ashgabat,TM,1032000
+Asia/Atyrau,KZ,209699
+Asia/Baghdad,IQ,7665000
+Asia/Bahrain,BH,1425000
+Asia/Baku,AZ,2166000
+Asia/Bangkok,TH,8281000
+Asia/Barnaul,RU,625679
+Asia/Beirut,LB,1750000
+Asia/Bishkek,KG,933753
+Asia/Brunei,BN,423196
+Asia/Chita,RU,329391
+Asia/Choibalsan,MN,38150
+Asia/Colombo,LK,752993
+Asia/Damascus,SY,1711000
+Asia/Dhaka,BD,7001000
+Asia/Dili,TL,192652
+Asia/Dubai,AE,3103000
+Asia/Dushanbe,TJ,770027
+Asia/Famagusta,CY,40920
+Asia/Ho Chi Minh,VN,6651000
+Asia/Hong Kong,HK,7347000
+Asia/Hovd,MN,28601
+Asia/Irkutsk,RU,601993
+Asia/Jakarta,ID,9608000
+Asia/Jayapura,ID,256705
+Asia/Jerusalem,IL,857752
+Asia/Kabul,AF,4635000
+Asia/Kamchatka,RU,179526
+Asia/Karachi,PK,21200000
+Asia/Kathmandu,NP,1003000
+Asia/Khandyga,RU,6796
+Asia/Kolkata,IN,4497000
+Asia/Krasnoyarsk,RU,1007000
+Asia/Kuala Lumpur,MY,1589000
+Asia/Kuching,MY,325132
+Asia/Kuwait,KW,4053000
+Asia/Macau,MO,612167
+Asia/Magadan,RU,95282
+Asia/Makassar,ID,1339000
+Asia/Manila,PH,1780000
+Asia/Muscat,OM,1560000
+Asia/Nicosia,CY,200452
+Asia/Novokuznetsk,RU,549383
+Asia/Novosibirsk,RU,1511000
+Asia/Omsk,RU,1159000
+Asia/Oral,KZ,273359
+Asia/Phnom Penh,KH,1502000
+Asia/Pontianak,ID,234021
+Asia/Pyongyang,KP,2581000
+Asia/Qatar,QA,2570000
+Asia/Qyzylorda,KZ,238840
+Asia/Riyadh,SA,5188000
+Asia/Sakhalin,RU,497973
+Asia/Samarkand,UZ,513572
+Asia/Seoul,KR,9860000
+Asia/Shanghai,CN,24180000
+Asia/Singapore,SG,5607000
+Asia/Srednekolymsk,RU,3459
+Asia/Taipei,TW,2705000
+Asia/Tashkent,UZ,2371000
+Asia/Tbilisi,GE,1062000
+Asia/Tehran,IR,8154000
+Asia/Thimphu,BT,114551
+Asia/Tokyo,JP,9273000
+Asia/Tomsk,RU,543596
+Asia/Ulaanbaatar,MN,1380000
+Asia/Urumqi,CN,2500000
+Asia/Ust-Nera,RU,6463
+Asia/Vientiane,LA,210000
+Asia/Vladivostok,RU,598927
+Asia/Yakutsk,RU,282419
+Asia/Yangon,MM,5210000
+Asia/Yekaterinburg,RU,1387000
+Asia/Yerevan,AM,1060000
+Atlantic/Azores,PT,245746
+Atlantic/Bermuda,BM,65365
+Atlantic/Canary,ES,2102000
+Atlantic/Cape Verde,CV,540000
+Atlantic/Faroe,FO,49117
+Atlantic/Madeira,PT,267785
+Atlantic/Reykjavik,IS,122141
+Atlantic/South Georgia,GS,30
+Atlantic/St Helena,SH,4534
+Atlantic/Stanley,FK,2108
+Australia/Adelaide,AU,1198000
+Australia/Brisbane,AU,1977000
+Australia/Broken Hill,AU,17814
+Australia/Currie,AU,8550
+Australia/Darwin,AU,106255
+Australia/Eucla,AU,85
+Australia/Hobart,AU,200501
+Australia/Lindeman,AU,74
+Australia/Lord Howe,AU,347
+Australia/Melbourne,AU,4800000
+Australia/Perth,AU,1671000
+Australia/Sydney,AU,5000000
+Europe/Amsterdam,NL,821752
+Europe/Andorra,AD,77281
+Europe/Astrakhan,RU,526363
+Europe/Athens,GR,664046
+Europe/Belgrade,RS,1369000
+Europe/Berlin,DE,3470000
+Europe/Bratislava,SK,421305
+Europe/Brussels,BE,1192000
+Europe/Bucharest,RO,1859000
+Europe/Budapest,HU,1759000
+Europe/Busingen,DE,1419
+Europe/Chisinau,MD,669694
+Europe/Copenhagen,DK,583525
+Europe/Dublin,IE,527612
+Europe/Gibraltar,GI,34408
+Europe/Guernsey,GG,63026
+Europe/Helsinki,FI,616690
+Europe/Isle of Man,IM,83737
+Europe/Istanbul,TR,15030000
+Europe/Jersey,JE,100080
+Europe/Kaliningrad,RU,437456
+Europe/Kiev,UA,2804000
+Europe/Kirov,RU,480594
+Europe/Lisbon,PT,506892
+Europe/Ljubljana,SI,278853
+Europe/London,GB,8136000
+Europe/Luxembourg,LU,582972
+Europe/Madrid,ES,3166000
+Europe/Malta,MT,436947
+Europe/Mariehamn,AX,11471
+Europe/Minsk,BY,1911000
+Europe/Monaco,MC,38499
+Europe/Moscow,RU,11920000
+Europe/Oslo,NO,634293
+Europe/Paris,FR,2244000
+Europe/Podgorica,ME,185937
+Europe/Prague,CZ,1259000
+Europe/Riga,LV,640319
+Europe/Rome,IT,2868000
+Europe/Samara,RU,1170000
+Europe/San Marino,SM,33203
+Europe/Sarajevo,BA,275524
+Europe/Saratov,RU,838321
+Europe/Simferopol,UA,331936
+Europe/Skopje,MK,536271
+Europe/Sofia,BG,1211000
+Europe/Stockholm,SE,952058
+Europe/Tallinn,EE,413782
+Europe/Tirane,AL,418495
+Europe/Ulyanovsk,RU,614878
+Europe/Uzhgorod,UA,114789
+Europe/Vaduz,LI,5429
+Europe/Vatican,VA,1000
+Europe/Vienna,AT,1767000
+Europe/Vilnius,LT,543060
+Europe/Volgograd,RU,1019000
+Europe/Warsaw,PL,1735000
+Europe/Zagreb,HR,790017
+Europe/Zaporozhye,UA,766736
+Europe/Zurich,CH,391359
+Indian/Antananarivo,MG,1300000
+Indian/Chagos,IO,2000
+Indian/Christmas,CX,1402
+Indian/Cocos,CC,596
+Indian/Comoro,KM,795601
+Indian/Kerguelen,TF,130
+Indian/Mahe,SC,41816
+Indian/Maldives,MV,417492
+Indian/Mauritius,MU,1263000
+Indian/Mayotte,YT,204000
+Indian/Reunion,RE,843617
+Pacific/Apia,WS,36735
+Pacific/Auckland,NZ,1570000
+Pacific/Bougainville,PG,234280
+Pacific/Chatham,NZ,600
+Pacific/Chuuk,FM,48654
+Pacific/Easter,CL,5761
+Pacific/Efate,VU,44040
+Pacific/Enderbury,KI,40
+Pacific/Fakaofo,TK,137
+Pacific/Fiji,FJ,898760
+Pacific/Funafuti,TV,4492
+Pacific/Galapagos,EC,3488
+Pacific/Gambier,PF,2423
+Pacific/Guadalcanal,SB,109382
+Pacific/Guam,GU,162896
+Pacific/Honolulu,US,352769
+Pacific/Kiritimati,KI,5115
+Pacific/Kosrae,FM,6616
+Pacific/Kwajalein,MH,1000
+Pacific/Majuro,MH,27797
+Pacific/Marquesas,PF,8632
+Pacific/Midway,UM,40
+Pacific/Nauru,NR,13049
+Pacific/Niue,NU,1624
+Pacific/Norfolk,NF,1828
+Pacific/Noumea,NC,97579
+Pacific/Pago Pago,AS,3656
+Pacific/Palau,PW,21503
+Pacific/Pitcairn,PN,50
+Pacific/Pohnpei,FM,36196
+Pacific/Port Moresby,PG,310000
+Pacific/Rarotonga,CK,14153
+Pacific/Saipan,MP,52263
+Pacific/Tahiti,PF,280208
+Pacific/Tarawa,KI,28802
+Pacific/Tongatapu,TO,75416
+Pacific/Wake,UM,150
+Pacific/Wallis,WF,11899
